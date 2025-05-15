@@ -1,6 +1,6 @@
 # Adega Delivery
 
-Este é um projeto Java desenvolvido durante o curso no SENAI, com o objetivo de simular um sistema de entregas para uma adega.
+Este é um projeto Java desenvolvido durante o curso no SENAI, com a Professora Kelly, com o objetivo de simular um sistema de entregas para uma adega.
 
 ## Funcionalidades
 
